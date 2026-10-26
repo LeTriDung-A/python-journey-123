@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "week13-app"
+version = "0.1.0"
+description = "Week 13 beginner practice: modules, CLI and HTTP"
+requires-python = ">=3.10"
+dependencies = ["requests>=2.31.0"]
+
+[tool.setuptools]
+packages = ["week13_app"]
