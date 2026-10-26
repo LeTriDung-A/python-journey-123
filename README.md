@@ -11,6 +11,12 @@
 
 **Learning loop:** `Learn → Build → Test → Debug → Improve → Commit → Prove`
 
+<p align="center">
+  <a href="https://github.com/LeTriDung-A/python-journey-123"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub repository"></a>
+  <a href="https://github.com/LeTriDung-A/python-journey-123/tree/main/weeks"><img src="https://img.shields.io/badge/Study-15%20Weeks-2563eb?style=for-the-badge&logo=readthedocs&logoColor=white" alt="15 week roadmap"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Made with Python"></a>
+</p>
+
 **Featured spiral project:** [VuaCóc Bot Journey](projects/vuacoc-bot-journey/README.md)
 🏆 · [Tham khảo game gốc](https://vuacoc.com/)
 
@@ -214,8 +220,8 @@ Người học được khuyến khích:
 ## Bắt đầu
 
 ```bash
-git clone https://github.com/CocAgent/python-journey.git
-cd python-journey
+git clone https://github.com/LeTriDung-A/python-journey-123.git
+cd python-journey-123
 ```
 
 Sau đó mở [`SETUP.md`](SETUP.md) và làm theo hướng dẫn cho hệ điều hành của
